@@ -22,8 +22,8 @@ All necessary data preprocessing steps like renaming columns, handling missing v
 4. The notebook will automatically preprocess the dataset and train the models.  
 
 ## ✅ Results
-- **Gradient Boosting Accuracy**: 91.73%  
-- **Random Forest Accuracy**: 91.17%  
+- **Gradient Boosting Accuracy**: 91.74%  
+- **Random Forest Accuracy**: 91.52%  
 - **Linear Regression Accuracy**: 89.11%
 
 ## 📌 Notes
